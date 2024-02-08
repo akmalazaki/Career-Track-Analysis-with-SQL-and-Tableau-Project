@@ -25,8 +25,8 @@ Study the sql_and_tableau database, consisting of the following tables:
 ***
 
 ## **Problem Finding**
-The majority of students enroll for the data analyst program, namely around 49.1%, this figure is the highest percentage compared to the other two programs, namely data scientists have a proportion of enrollments of around 36.8% and business analysts have a proportion of enrollments of around 14.1%.
+Based on the analysis results, it was found that the majority of students enrolled in the data analyst program, approximately 49.1%. This percentage is the highest compared to the other two programs, namely data scientist with a registration proportion of about 36.8%, and business analyst with a registration proportion of about 14.1%.
 
-However, students who enrolled in the data analyst program had the lowest track_completed average, namely around 22.8%, this figure is the lowest percentage compared to the other 2 programs. 
+However, students in the data analyst program have the lowest average track_completed, around 22.8%. This figure is the lowest percentage compared to the other two programs.
 
-To answer why this happens, we need relevant data for further analysis, such as ratings for each program that describe student satisfaction on the program and the other relevant data that usefull.
+To answer why this is happening, relevant data for further analysis is needed, such as ratings for each program depicting student satisfaction and other useful relevant data.
